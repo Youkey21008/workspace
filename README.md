@@ -47,7 +47,7 @@
 
     ![](pic/searchgit.png)
 
-    と出てくるので、`git install git`でgitをインストールして完了。
+    と出てくるので、`scoop install git`でgitをインストールして完了。
 
 4. gitリポジトリの作成
 
